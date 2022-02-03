@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Api.Products", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Customers", "Ecommerce.Api.Customers\Ecommerce.Api.Customers.csproj", "{339F12F8-A0CD-4EF3-B4C7-8F39E4E460A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Orders", "Ecommerce.Api.Sales\Ecommerce.Api.Orders.csproj", "{003F3074-52B9-48FF-81E3-932CB69FCDAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Orders", "Ecommerce.Api.Orders\Ecommerce.Api.Orders.csproj", "{003F3074-52B9-48FF-81E3-932CB69FCDAD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Search", "Ecommerce.Api.Search\Ecommerce.Api.Search.csproj", "{4AB8C4EB-03DE-4B42-930D-EF2752134359}"
 EndProject
